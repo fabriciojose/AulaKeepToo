@@ -1,0 +1,17 @@
+#AnchorPane {
+    -fx-background-color: white; /*  cor do fundo */
+}
+
+#insideLeftAnchorPane {
+    -fx-background-color: #1d2026;
+}
+#insideLeftAnchorPane_Pane {
+    -fx-background-color: #1d2026;
+}
+#Pane_Label {
+    
+    -fx-font-family: 'Josefin Sans'; /* fonte family */
+    -fx-text-fill: white; /* cor do texto da label */
+    -fx-font-size: 18pt; /* tamanho da fonte */
+    
+}
