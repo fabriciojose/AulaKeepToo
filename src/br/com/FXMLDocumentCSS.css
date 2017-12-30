@@ -9,9 +9,9 @@
     -fx-background-color: #1d2026;
 }
 #Pane_Label {
-    
-    -fx-font-family: 'Josefin Sans'; /* fonte family */
+    /* Pesquisar fonte utilizada: Josefin Sans 
+    -fx-font-family: "Comic Sans MS"; */
     -fx-text-fill: white; /* cor do texto da label */
-    -fx-font-size: 18pt; /* tamanho da fonte */
-    
+    -fx-font-size: 16pt; /* tamanho da fonte */
+    -fx-alignment: CENTER; /* centralizar o texto */
 }
